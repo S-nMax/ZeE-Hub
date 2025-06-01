@@ -695,7 +695,7 @@ Settingsbuttopn.BorderSizePixel = 0
 Settingsbuttopn.Position = UDim2.new(0.69266057, 0, 0.872180462, 0)
 Settingsbuttopn.Size = UDim2.new(0, 124, 0, 29)
 Settingsbuttopn.Font = Enum.Font.FredokaOne
-Settingsbuttopn.Text = "Settings"
+Settingsbuttopn.Text = "设置"
 Settingsbuttopn.TextColor3 = Color3.fromRGB(255, 255, 255)
 Settingsbuttopn.TextSize = 14.000
 Settingsbuttopn.TextXAlignment = Enum.TextXAlignment.Right
@@ -718,7 +718,7 @@ title.BorderSizePixel = 0
 title.Position = UDim2.new(-0.00319473841, 0, 0.0400807932, 0)
 title.Size = UDim2.new(0, 216, 0, 12)
 title.Font = Enum.Font.SourceSansBold
-title.Text = "Settings"
+title.Text = "设置"
 title.TextColor3 = Color3.fromRGB(255, 255, 255)
 title.TextSize = 20.000
 
